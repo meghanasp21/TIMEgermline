@@ -2,7 +2,6 @@
 ARCHIVE/
 EXTRA/
 scripts/
-cell-type-specificity/
 discovery/
 disease-relevance/
 epigenetic/
@@ -17,6 +16,7 @@ survival/
 #all association folders
 **/associations/
 **/data/
+**/phenotypes/
 
 #out/err folders
 **/scripts/out/
