@@ -2,7 +2,6 @@
 ARCHIVE/
 EXTRA/
 scripts/
-disease-relevance/
 epigenetic/
 heritability/
 hla-deep-dive/
@@ -18,6 +17,7 @@ survival/
 **/phenotypes/
 **/LDtrait/
 **/clump/
+**/prs/
 
 #out/err folders
 **/scripts/out/
