@@ -2,12 +2,7 @@
 ARCHIVE/
 EXTRA/
 scripts/
-hla-deep-dive/
-investigation/
-pca/
-snp-interactions/
 snp-tables/
-survival/
 
 #all association folders
 **/associations/
