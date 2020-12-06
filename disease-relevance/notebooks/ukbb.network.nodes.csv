@@ -1,0 +1,83 @@
+node,degree,color
+rs76265950,2,red
+C43-C44 Melanoma and other malignant neoplasms of skin,19,purple
+rs77603042,2,red
+rs6928272,2,red
+rs6457621,2,red
+rs17612852,3,red
+D60-D64 Aplastic and other anaemias,24,purple
+rs34843907,4,red
+rs111365964,1,red
+D50-D53 Nutritional anaemias,17,purple
+rs9273242,5,red
+rs2097442,2,red
+rs17612712,3,red
+rs1129735,2,red
+rs7751376,5,red
+rs28755291,1,red
+rs9266639,2,red
+D80-D89 Certain disorders involving the immune mechanism,6,red
+rs3819720,2,red
+"C81-C96 Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",7,purple
+rs536421612,2,red
+rs9276207,1,red
+rs9270588,2,red
+rs4148876,2,red
+rs9274656,2,red
+rs3130510,3,red
+rs1264372,1,red
+rs9274514,3,red
+rs2517544,2,red
+rs9276909,3,red
+rs12576996,2,red
+rs9257167,3,red
+rs2233959,1,red
+rs2395516,2,red
+rs9271191,2,red
+rs1846190,1,red
+rs9270656,2,red
+rs9265579,2,red
+D70-D77 Other diseases of blood and blood-forming organs,1,purple
+rs9357006,2,red
+rs3104391,2,red
+rs2074491,2,red
+C60-C63 Malignant neoplasms of male genital organs,2,purple
+rs35984974,1,red
+rs59497209,2,red
+rs2621321,3,red
+"D65-D69 Coagulation defects, purpura and other haemorrhagic conditions",1,purple
+rs17843593,2,red
+rs9264663,2,red
+rs707908,2,red
+"C00-C14 Malignant neoplasms of lip, oral cavity and pharynx",4,purple
+rs9258375,1,red
+rs533155786,2,red
+rs9272309,2,red
+rs9273480,2,red
+rs3130924,2,red
+rs1046089,2,red
+rs529480034,1,red
+rs38029,2,red
+C15-C26 Malignant neoplasms of digestive organs,3,purple
+rs76161886,1,red
+rs9469008,2,red
+rs3998158,1,red
+rs3132131,1,red
+rs28544229,2,red
+MARVELD2,2,blue
+DBNDD1,2,blue
+LM22.Macrophages.M2,2,blue
+CTSW,1,blue
+LNPEP,1,blue
+HLA.DQA1,3,blue
+HLA.C,2,blue
+HLA.DQB1,4,blue
+TAP2,2,blue
+HLA.DRB5,2,blue
+BTN3A2,1,blue
+HLA.DQB2,1,blue
+MICA,1,blue
+HLA.G,1,blue
+MICB,1,blue
+PSMB9,1,blue
+HLA.DRB1,2,blue
