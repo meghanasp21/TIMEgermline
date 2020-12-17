@@ -3,6 +3,7 @@ ARCHIVE/
 EXTRA/
 scripts/
 snp-tables/
+cytoscape/
 
 #all association folders
 **/associations/
