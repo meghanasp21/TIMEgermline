@@ -1,2 +1,17 @@
-# Common genetic variants influence the composition of the tumor immune microenvironment and host anti-tumor responses
-## This repository includes notebooks/code for TCGA analysis of germline determinants of the immune microenvironment
+# TIME Germline Atlas
+
+## Data Access
+
+**TCGA genotypes**:
+
+**ICB genotypes**: 
+
+**ICB RNA**: 
+
+## Replication of Figures
+For jupyter notebooks replicating all figures:
+
+## Contact
+
+Please contact Meghana Pagadala [mpagadal@health.ucsd.edu] or Hannah Carter [hkcarter@health.ucsd.edu] for data inquiries or other questions!
+
